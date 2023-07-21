@@ -15,12 +15,12 @@ This is a repository to outline my code, analyses, and projects for my MS in Dat
 ## Spring 2023
 
 - [CS676 Algorithms for Data Science](https://github.com/awesomecosmos/CS676-Algorithms-For-Data-Science)
-- CS627 Artifical Intelligence
+- CS627 Artificial Intelligence
 
 ## Summer 2023
 
 - [CS673 Scalable Databases](https://github.com/awesomecosmos/CS673-Scalable-Databases)
-- CS677 Machine Learning
+- [CS677 Machine Learning](https://github.com/awesomecosmos/CS677-Machine-Learning)
 
 ## Fall 2023
 
