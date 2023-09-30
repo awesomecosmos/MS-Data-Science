@@ -24,4 +24,5 @@ This is a repository to outline my code, analyses, and projects for my MS in Dat
 
 ## Fall 2023
 
-TBD.
+- [CS668 Capstone Project](https://github.com/awesomecosmos/CS668-Capstone-Project)
+- [CS672 Deep Learning](https://github.com/awesomecosmos/CS672-Deep-Learning)
